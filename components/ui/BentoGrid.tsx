@@ -139,7 +139,7 @@ export const BentoGridItem = ({
 
           it's not run my computer because of graphics*/}
           
-          {/*id === 2 && <GridGlobe />*/}
+          id === 2 && <GridGlobe />
 
           {/* Tech stack list div */}
           {id === 3 && (
